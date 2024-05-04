@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.outerMost{
+    width: 100%;
+    height: 45rem;
+    /* border: 2px solid black; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(./assests/enquiry.jpeg);
+    
+    /* background-color: rgb(20, 154, 132); */
+}
+.containerV {
+    height: 15rem;
+    /* border: 1px solid red; */
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    /* background-color: rgba(193, 172, 172, 0.315); */
+    backdrop-filter: blur(6px);
+}
+
+/* .inputContainerV {
+
+} */

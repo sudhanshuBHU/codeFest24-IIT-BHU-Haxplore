@@ -1,0 +1,110 @@
+0000000000000000000000000000000000000000 7658e0256874e2129b24f870121c6926a8c22408 Sudhanshu <sudhanshu007@bhu.ac.in> 1711703247 +0530	clone: from https://github.com/roysoumendu765/iitbhu_codefest_2024_haxplore.git
+7658e0256874e2129b24f870121c6926a8c22408 c735377c6962f659a2f56d3618ebd49b6c72a156 Sudhanshu <sudhanshu007@bhu.ac.in> 1711703360 +0530	pull: Fast-forward
+c735377c6962f659a2f56d3618ebd49b6c72a156 0d65b11b576af98c93b9a38febeb0e78b62cff71 Sudhanshu <sudhanshu007@bhu.ac.in> 1711703399 +0530	pull: Fast-forward
+0d65b11b576af98c93b9a38febeb0e78b62cff71 ef1a288dcfe1ad464d16a200394a0bb8af1278f5 Sudhanshu <sudhanshu007@bhu.ac.in> 1711703800 +0530	commit: added bootstrap to the react app
+ef1a288dcfe1ad464d16a200394a0bb8af1278f5 aeb42d67595f5c10a8fa04d1899de6356434349b Sudhanshu <sudhanshu007@bhu.ac.in> 1711703848 +0530	pull: Merge made by the 'ort' strategy.
+aeb42d67595f5c10a8fa04d1899de6356434349b 81c8f81044dad19ab2718ca1cfb0cd410d74ab5d Sudhanshu <sudhanshu007@bhu.ac.in> 1711704063 +0530	commit (merge): conflicts resolved
+81c8f81044dad19ab2718ca1cfb0cd410d74ab5d c1ab9a11a29d69b98c5d9b23216d4363f6da0e78 Sudhanshu <sudhanshu007@bhu.ac.in> 1711706630 +0530	commit: added components in app.js
+c1ab9a11a29d69b98c5d9b23216d4363f6da0e78 b8fb7729c7e2d790914a017452c64c6a8c0e84b1 Sudhanshu <sudhanshu007@bhu.ac.in> 1711706672 +0530	commit (merge): Merge branch 'master' of https://github.com/roysoumendu765/iitbhu_codefest_2024_haxplore
+b8fb7729c7e2d790914a017452c64c6a8c0e84b1 a918661d4addee449e24d9814c14806a2ede68d5 Sudhanshu <sudhanshu007@bhu.ac.in> 1711706838 +0530	commit: added components in app.js
+a918661d4addee449e24d9814c14806a2ede68d5 9e3deac48d5c9ecefa8c5d99f5f1b4ef11a0c783 Sudhanshu <sudhanshu007@bhu.ac.in> 1711707337 +0530	commit: importing components in app.js
+9e3deac48d5c9ecefa8c5d99f5f1b4ef11a0c783 06057590a92aeaaed81296ea6483609dc3fc097b Sudhanshu <sudhanshu007@bhu.ac.in> 1711708740 +0530	commit: addedd form section for visitor details ..css remaining
+06057590a92aeaaed81296ea6483609dc3fc097b 3d83127628bc09b918a6e2c876d0f147fb8228d7 Sudhanshu <sudhanshu007@bhu.ac.in> 1711708760 +0530	pull: Merge made by the 'ort' strategy.
+3d83127628bc09b918a6e2c876d0f147fb8228d7 1730391e590e5cfc71a02616adca453a5dbbad12 Sudhanshu <sudhanshu007@bhu.ac.in> 1711710970 +0530	commit: addded react-bootstrap
+1730391e590e5cfc71a02616adca453a5dbbad12 2a69213cb77995df5a873a86e64e7cf8f5f4bdb6 Sudhanshu <sudhanshu007@bhu.ac.in> 1711711211 +0530	commit (merge): folder arranged
+2a69213cb77995df5a873a86e64e7cf8f5f4bdb6 fb13d12764748d9d721dbb2c9dc7dfc7c947d289 Sudhanshu <sudhanshu007@bhu.ac.in> 1711713680 +0530	commit: carousel added
+fb13d12764748d9d721dbb2c9dc7dfc7c947d289 cc833b126576ed3595264f6a1925370596aa0f68 Sudhanshu <sudhanshu007@bhu.ac.in> 1711713763 +0530	commit (merge): Merge branch 'master' of https://github.com/roysoumendu765/iitbhu_codefest_2024_haxplore
+cc833b126576ed3595264f6a1925370596aa0f68 af32097e8b1fbc19abdb740a78df085e83d588f9 Sudhanshu <sudhanshu007@bhu.ac.in> 1711713899 +0530	commit: classname added
+af32097e8b1fbc19abdb740a78df085e83d588f9 747b79d7eb38054a79c193ddcc1cfb9034e25b03 Sudhanshu <sudhanshu007@bhu.ac.in> 1711713978 +0530	commit: carousel added to main
+747b79d7eb38054a79c193ddcc1cfb9034e25b03 ee75bc97b9f442449ac92e1e38456e5e99b13fce Sudhanshu <sudhanshu007@bhu.ac.in> 1711718838 +0530	commit: styled header
+ee75bc97b9f442449ac92e1e38456e5e99b13fce c855f2fd39f75c3e755bb1ca3feeb38b8241ea0c Sudhanshu <sudhanshu007@bhu.ac.in> 1711720964 +0530	commit: header designed
+c855f2fd39f75c3e755bb1ca3feeb38b8241ea0c 0eb50579371855232187213d7a303b0130cf1425 Sudhanshu <sudhanshu007@bhu.ac.in> 1711720989 +0530	pull: Merge made by the 'ort' strategy.
+0eb50579371855232187213d7a303b0130cf1425 42876a609aa306432b44f0dc2b5e3d25ae50afd5 Sudhanshu <sudhanshu007@bhu.ac.in> 1711726118 +0530	commit: router added
+42876a609aa306432b44f0dc2b5e3d25ae50afd5 ac8e71cf806fa19031971bb6fd3efde3ae32d2d3 Sudhanshu <sudhanshu007@bhu.ac.in> 1711726145 +0530	pull: Merge made by the 'ort' strategy.
+ac8e71cf806fa19031971bb6fd3efde3ae32d2d3 b3516c483f39e275a5900ac1682386e34ccb8197 Sudhanshu <sudhanshu007@bhu.ac.in> 1711727059 +0530	commit: separated form section successfully
+b3516c483f39e275a5900ac1682386e34ccb8197 803bdfae0b7bf4a6a5a9e9f134bc5d88f8f627be Sudhanshu <sudhanshu007@bhu.ac.in> 1711727070 +0530	pull: Merge made by the 'ort' strategy.
+803bdfae0b7bf4a6a5a9e9f134bc5d88f8f627be 173368fb08e800e126ce29dc0326ad50c4e3147f Sudhanshu <sudhanshu007@bhu.ac.in> 1711730979 +0530	commit: css configured
+173368fb08e800e126ce29dc0326ad50c4e3147f 709649c06b6b162fd1f36381e244227b22bba72e Sudhanshu <sudhanshu007@bhu.ac.in> 1711730986 +0530	pull: Merge made by the 'ort' strategy.
+709649c06b6b162fd1f36381e244227b22bba72e 20dc26e0390c6d2615be40a71e1d6e611a1fb73d Sudhanshu <sudhanshu007@bhu.ac.in> 1711731975 +0530	commit: photo changed to hd version
+20dc26e0390c6d2615be40a71e1d6e611a1fb73d 944c200d4d6ba4ede3b2e7946327e012a731a07d Sudhanshu <sudhanshu007@bhu.ac.in> 1711737892 +0530	commit: form validated successfully
+944c200d4d6ba4ede3b2e7946327e012a731a07d 8839b38d38635ba9766350378d97d4ebf62cbc38 Sudhanshu <sudhanshu007@bhu.ac.in> 1711738114 +0530	commit (merge): Merge branch 'master' of https://github.com/roysoumendu765/iitbhu_codefest_2024_haxplore
+8839b38d38635ba9766350378d97d4ebf62cbc38 6f4ea6f1059624f30e8750fc7789b2564aad02c8 Sudhanshu <sudhanshu007@bhu.ac.in> 1711739803 +0530	commit: buy button activated
+6f4ea6f1059624f30e8750fc7789b2564aad02c8 a922189d8da5e6befd46d948eba5c6300e03fc0d Sudhanshu <sudhanshu007@bhu.ac.in> 1711742010 +0530	commit: buy button configured
+a922189d8da5e6befd46d948eba5c6300e03fc0d e4b8647aad3b90c75bb68100592bf0afd72650c8 Sudhanshu <sudhanshu007@bhu.ac.in> 1711742019 +0530	pull: Merge made by the 'ort' strategy.
+e4b8647aad3b90c75bb68100592bf0afd72650c8 2e9776c07666692a55c50fac53c53f3ac323feb2 Sudhanshu <sudhanshu007@bhu.ac.in> 1711743068 +0530	commit: total price added
+2e9776c07666692a55c50fac53c53f3ac323feb2 15ad3906763fca241781b5002c5b4178595e5021 Sudhanshu <sudhanshu007@bhu.ac.in> 1711743074 +0530	pull: Merge made by the 'ort' strategy.
+15ad3906763fca241781b5002c5b4178595e5021 8cec6cf958743209e08a6ec02bd0675127e6a4ed Sudhanshu <sudhanshu007@bhu.ac.in> 1711743422 +0530	pull: Fast-forward
+8cec6cf958743209e08a6ec02bd0675127e6a4ed f2240966f91a7d2e8b377ba08c66754544285e28 Sudhanshu <sudhanshu007@bhu.ac.in> 1711744423 +0530	commit: id name validated
+f2240966f91a7d2e8b377ba08c66754544285e28 29cb273b91d4768cdb17082d4b33ba60db2ef652 Sudhanshu <sudhanshu007@bhu.ac.in> 1711744430 +0530	pull: Merge made by the 'ort' strategy.
+29cb273b91d4768cdb17082d4b33ba60db2ef652 adb2cf38fcf3730f2c22a6843c8eb9707548dbca Sudhanshu <sudhanshu007@bhu.ac.in> 1711800242 +0530	commit: descriptions added to the carousels
+adb2cf38fcf3730f2c22a6843c8eb9707548dbca 973f2d658876682a2341605c85bbb7194eed0c2d Sudhanshu <sudhanshu007@bhu.ac.in> 1711800249 +0530	pull: Merge made by the 'ort' strategy.
+973f2d658876682a2341605c85bbb7194eed0c2d 5f40a85010a6ce40e515e6f01d41edace72514fe Sudhanshu <sudhanshu007@bhu.ac.in> 1711801208 +0530	pull: Fast-forward
+5f40a85010a6ce40e515e6f01d41edace72514fe 41f323c3a6c863293f57b1a7a67bb70b3c2055a9 Sudhanshu <sudhanshu007@bhu.ac.in> 1711812038 +0530	pull: Fast-forward
+41f323c3a6c863293f57b1a7a67bb70b3c2055a9 50212d9de17c07596b46a2bd94b889dd5f8e36e3 Sudhanshu <sudhanshu007@bhu.ac.in> 1711814136 +0530	commit: code review
+50212d9de17c07596b46a2bd94b889dd5f8e36e3 f2260f4e5a716121bddf0ee2928c1721954216a5 Sudhanshu <sudhanshu007@bhu.ac.in> 1711814282 +0530	pull: Merge made by the 'ort' strategy.
+f2260f4e5a716121bddf0ee2928c1721954216a5 7bdd07fe90a0ca2e2faf2fc5feef6e69481f997c Sudhanshu <sudhanshu007@bhu.ac.in> 1711817033 +0530	commit: waiting time added
+7bdd07fe90a0ca2e2faf2fc5feef6e69481f997c 646f5ad2bd2d48cb2ae47a90e5dde20320b68a46 Sudhanshu <sudhanshu007@bhu.ac.in> 1711817135 +0530	commit: waiting time resolved
+646f5ad2bd2d48cb2ae47a90e5dde20320b68a46 d6bdc5bce5991d1f1a815837abe39e14d9e17b8e Sudhanshu <sudhanshu007@bhu.ac.in> 1711817147 +0530	pull: Merge made by the 'ort' strategy.
+d6bdc5bce5991d1f1a815837abe39e14d9e17b8e b1732d442b6e14d9610af6ff0308a8a1fb33170b Sudhanshu <sudhanshu007@bhu.ac.in> 1711817831 +0530	pull: Fast-forward
+b1732d442b6e14d9610af6ff0308a8a1fb33170b 6417130a64ecea3f09eaccd7989fce680e4aca78 Sudhanshu <sudhanshu007@bhu.ac.in> 1711819316 +0530	commit: navbar improved
+6417130a64ecea3f09eaccd7989fce680e4aca78 6fc8a73b3cdb5cb4ad240fca55be19b31b96b99e Sudhanshu <sudhanshu007@bhu.ac.in> 1711820025 +0530	commit: navbar links added
+6fc8a73b3cdb5cb4ad240fca55be19b31b96b99e 41990c8b2a108b0529c097cabd93f74452778d60 Sudhanshu <sudhanshu007@bhu.ac.in> 1711820105 +0530	commit (merge): navbar links added
+41990c8b2a108b0529c097cabd93f74452778d60 6a0a8ad86a842cc755939dfa9b367d863f179920 Sudhanshu <sudhanshu007@bhu.ac.in> 1711821481 +0530	commit: code revied
+6a0a8ad86a842cc755939dfa9b367d863f179920 6bd392a643d5ccbddabcb339f3d8be42f0c9b0c1 Sudhanshu <sudhanshu007@bhu.ac.in> 1711821617 +0530	commit (merge): code reviewed
+6bd392a643d5ccbddabcb339f3d8be42f0c9b0c1 427a5c85f83e645e762432e753bd931ba1ba6824 Sudhanshu <sudhanshu007@bhu.ac.in> 1711825775 +0530	commit: form idname error corrected
+427a5c85f83e645e762432e753bd931ba1ba6824 811912c5856ec9e57fa9a8ef1b81d47c350d620e Sudhanshu <sudhanshu007@bhu.ac.in> 1711825780 +0530	pull: Merge made by the 'ort' strategy.
+811912c5856ec9e57fa9a8ef1b81d47c350d620e d23a67e03b6d8296e87ad7896339565ddce23111 Sudhanshu <sudhanshu007@bhu.ac.in> 1711830971 +0530	commit: added view ticket container's functionality
+d23a67e03b6d8296e87ad7896339565ddce23111 922bd039c9a98cc1308a0da8457f297da14b2344 Sudhanshu <sudhanshu007@bhu.ac.in> 1711830979 +0530	pull: Merge made by the 'ort' strategy.
+922bd039c9a98cc1308a0da8457f297da14b2344 543b4f3f8cb9c90b63dd3c4a5369788d9b1b9f8c Sudhanshu <sudhanshu007@bhu.ac.in> 1711832635 +0530	commit: added sweet alert to the view ticket section
+543b4f3f8cb9c90b63dd3c4a5369788d9b1b9f8c 05121ef8530ed5e6d4b5a3bea28f35c3e7901725 Sudhanshu <sudhanshu007@bhu.ac.in> 1711832641 +0530	pull: Merge made by the 'ort' strategy.
+05121ef8530ed5e6d4b5a3bea28f35c3e7901725 61a9209752939ca90dd02a7c2c9d646191166d0d Sudhanshu <sudhanshu007@bhu.ac.in> 1711835696 +0530	commit: view ticket page is pending
+61a9209752939ca90dd02a7c2c9d646191166d0d 3cec148a244687ea776bc93fb6abfd7bcbf7aab3 Sudhanshu <sudhanshu007@bhu.ac.in> 1711835703 +0530	pull: Merge made by the 'ort' strategy.
+3cec148a244687ea776bc93fb6abfd7bcbf7aab3 846a1f227d87b765f82005ee78dc07604fed51a6 Sudhanshu <sudhanshu007@bhu.ac.in> 1711869989 +0530	commit: completed view ticket functionality
+846a1f227d87b765f82005ee78dc07604fed51a6 54c1b06e5375994414c68e1daaaee274a63fc7db Sudhanshu <sudhanshu007@bhu.ac.in> 1711869997 +0530	pull: Merge made by the 'ort' strategy.
+54c1b06e5375994414c68e1daaaee274a63fc7db f993120a4bca3dcf0b13ff9d02ed15d2882f1941 Sudhanshu <sudhanshu007@bhu.ac.in> 1711870086 +0530	commit: completed view ticket functionality reviewed
+f993120a4bca3dcf0b13ff9d02ed15d2882f1941 6fb036c00481e986d01f20b83338ca2fdad541e4 Sudhanshu <sudhanshu007@bhu.ac.in> 1711870836 +0530	commit: enquiry form reviewed
+6fb036c00481e986d01f20b83338ca2fdad541e4 5b1f865dc1381b289dfb19137fd52062b620367b Sudhanshu <sudhanshu007@bhu.ac.in> 1711873905 +0530	commit: form section improved- added image
+5b1f865dc1381b289dfb19137fd52062b620367b 05800ed4ce7415446729184d46c749783767d5a0 Sudhanshu <sudhanshu007@bhu.ac.in> 1711873910 +0530	pull: Merge made by the 'ort' strategy.
+05800ed4ce7415446729184d46c749783767d5a0 28a839e09df52963a02c182466f12ffcd879dff2 Sudhanshu <sudhanshu007@bhu.ac.in> 1711874111 +0530	commit: code reviewed enquiry section
+28a839e09df52963a02c182466f12ffcd879dff2 e42cf297b9f6625b8d6020439899a62f8c6c5bea Sudhanshu <sudhanshu007@bhu.ac.in> 1711875271 +0530	commit: code reviewed in MainApp
+e42cf297b9f6625b8d6020439899a62f8c6c5bea 549e140d6ff6358ecb7e2f4cf363402f8581d1d1 Sudhanshu <sudhanshu007@bhu.ac.in> 1711875279 +0530	pull: Merge made by the 'ort' strategy.
+549e140d6ff6358ecb7e2f4cf363402f8581d1d1 607f4ffed17c286a9e8d1de7c519836f07d5aae7 Sudhanshu <sudhanshu007@bhu.ac.in> 1711880977 +0530	commit: carousel improved
+607f4ffed17c286a9e8d1de7c519836f07d5aae7 7fc7b60e67a7242d6afc2021f0e75e2b203c9303 Sudhanshu <sudhanshu007@bhu.ac.in> 1711881392 +0530	commit: addded Graduate font in Enquiry Section
+7fc7b60e67a7242d6afc2021f0e75e2b203c9303 746f106a041a3beaf35babac46da55ab0d75cd1b Sudhanshu <sudhanshu007@bhu.ac.in> 1711881867 +0530	pull: Fast-forward
+746f106a041a3beaf35babac46da55ab0d75cd1b a9a6712478c232ad5e4bdd844ae73916ee1c6649 Sudhanshu <sudhanshu007@bhu.ac.in> 1711882657 +0530	pull: Fast-forward
+a9a6712478c232ad5e4bdd844ae73916ee1c6649 adef82cb2afb04ca98ca74f3bffecaf584d6f52b Sudhanshu <sudhanshu007@bhu.ac.in> 1711883457 +0530	commit: font added in enquiry section and button
+adef82cb2afb04ca98ca74f3bffecaf584d6f52b 7bffa641fdc67eac1add00a2529a532c0d8f15ce Sudhanshu <sudhanshu007@bhu.ac.in> 1711883484 +0530	commit: font added in enquiry section and button
+7bffa641fdc67eac1add00a2529a532c0d8f15ce fada7d3b34278fc9569dc048484b5d9f8cea3367 Sudhanshu <sudhanshu007@bhu.ac.in> 1711883519 +0530	commit: code formatted
+fada7d3b34278fc9569dc048484b5d9f8cea3367 c86b721f0b001eb3cafabbf30caa7e100e17f438 Sudhanshu <sudhanshu007@bhu.ac.in> 1711884747 +0530	commit: header improved
+c86b721f0b001eb3cafabbf30caa7e100e17f438 ebbdb41768995e0f82b74deb1a9ef6807acf06d6 Sudhanshu <sudhanshu007@bhu.ac.in> 1711884766 +0530	pull: Merge made by the 'ort' strategy.
+ebbdb41768995e0f82b74deb1a9ef6807acf06d6 fabd9965865eea9303d9de265f66bc0bd56fe98b Sudhanshu <sudhanshu007@bhu.ac.in> 1711885075 +0530	pull: Fast-forward
+fabd9965865eea9303d9de265f66bc0bd56fe98b 462cde87f1dcee175b87c16c788757a74cddc864 Sudhanshu <sudhanshu007@bhu.ac.in> 1711885235 +0530	pull: Fast-forward
+462cde87f1dcee175b87c16c788757a74cddc864 2f2fcb95de9fa97bf9c8b0da70d66609291a3225 Sudhanshu <sudhanshu007@bhu.ac.in> 1711886567 +0530	commit: carousel image updated
+2f2fcb95de9fa97bf9c8b0da70d66609291a3225 e3e56c69a9aa6532d98ef79e0c6036e0aff1f7c1 Sudhanshu <sudhanshu007@bhu.ac.in> 1711886646 +0530	commit: carousel image updated
+e3e56c69a9aa6532d98ef79e0c6036e0aff1f7c1 06376252934d0a84b2406d4eb2380c45b16e5858 Sudhanshu <sudhanshu007@bhu.ac.in> 1711891845 +0530	commit: carousel image updated
+06376252934d0a84b2406d4eb2380c45b16e5858 efc8d2eab62c39c8dd4d3c80d1b7abf84b028acd Sudhanshu <sudhanshu007@bhu.ac.in> 1711891850 +0530	pull: Merge made by the 'ort' strategy.
+efc8d2eab62c39c8dd4d3c80d1b7abf84b028acd 1d238366642b9032a9b0c564412f7810d254a750 Sudhanshu <sudhanshu007@bhu.ac.in> 1711891909 +0530	pull: Fast-forward
+1d238366642b9032a9b0c564412f7810d254a750 06d6e264d0aaa532f19fd155bd1478db354b8e9f Sudhanshu <sudhanshu007@bhu.ac.in> 1711893234 +0530	commit: validation in progress
+06d6e264d0aaa532f19fd155bd1478db354b8e9f 5edefd9c100d10f035ee0630d70c5b5e49074f5c Sudhanshu <sudhanshu007@bhu.ac.in> 1711900346 +0530	commit (merge): validation completed successfully
+5edefd9c100d10f035ee0630d70c5b5e49074f5c 37203370e334f5dccca355215e8e9740ebc66e9d Sudhanshu <sudhanshu007@bhu.ac.in> 1711900351 +0530	pull: Merge made by the 'ort' strategy.
+37203370e334f5dccca355215e8e9740ebc66e9d 8ee496e0e674bb366d6e71b6974979e94915968a Sudhanshu <sudhanshu007@bhu.ac.in> 1711901798 +0530	pull: Fast-forward
+8ee496e0e674bb366d6e71b6974979e94915968a b7a8451ea343215bcac1a6725b255ac86a758cab Sudhanshu <sudhanshu007@bhu.ac.in> 1711901823 +0530	pull: Fast-forward
+b7a8451ea343215bcac1a6725b255ac86a758cab f61f005782c77e3e11ef4ac67b16b44ece681eb1 Sudhanshu <sudhanshu007@bhu.ac.in> 1711902238 +0530	commit: serious issue resolved based on image
+f61f005782c77e3e11ef4ac67b16b44ece681eb1 d8fea694f40c83b843944dfeccaca64c0039e185 Sudhanshu <sudhanshu007@bhu.ac.in> 1711903844 +0530	commit: app name changed
+d8fea694f40c83b843944dfeccaca64c0039e185 a0f6af33fa1ed9643329bc37f746f6f263bc8c29 Sudhanshu <sudhanshu007@bhu.ac.in> 1711903850 +0530	pull: Merge made by the 'ort' strategy.
+a0f6af33fa1ed9643329bc37f746f6f263bc8c29 f6e512c132f97740d02caf6db7733d5c780035e2 Sudhanshu <sudhanshu007@bhu.ac.in> 1711904780 +0530	commit: responsive improved on landing page
+f6e512c132f97740d02caf6db7733d5c780035e2 87a08798b2c585b2c3a77f9b6d13ef33aff137df Sudhanshu <sudhanshu007@bhu.ac.in> 1711904786 +0530	pull: Merge made by the 'ort' strategy.
+87a08798b2c585b2c3a77f9b6d13ef33aff137df 28de0b3209b874eeabd4a1e1111252e36cd9360a Sudhanshu <sudhanshu007@bhu.ac.in> 1711906709 +0530	commit: something unexpected goed wrong tackled
+28de0b3209b874eeabd4a1e1111252e36cd9360a 674109e98182f38a66585de81c42cbe47f4fc191 Sudhanshu <sudhanshu007@bhu.ac.in> 1711906880 +0530	commit (merge): pending
+674109e98182f38a66585de81c42cbe47f4fc191 930b14ab34fa55928746a7add8c5c474455134de Sudhanshu <sudhanshu007@bhu.ac.in> 1711910461 +0530	commit: code reviewed
+930b14ab34fa55928746a7add8c5c474455134de 0db81ec80ea13b13ab55aaaa8b3724775b5c4f94 Sudhanshu <sudhanshu007@bhu.ac.in> 1711910470 +0530	pull: Merge made by the 'ort' strategy.
+0db81ec80ea13b13ab55aaaa8b3724775b5c4f94 125b4c8c74584195254a704ebcce5d2cf5e7185d Sudhanshu <sudhanshu007@bhu.ac.in> 1711912160 +0530	pull: Fast-forward
+125b4c8c74584195254a704ebcce5d2cf5e7185d 815dee9a3571d5fb98e956393c672f0b17d08119 Sudhanshu <sudhanshu007@bhu.ac.in> 1711913307 +0530	commit: code reviewed
+815dee9a3571d5fb98e956393c672f0b17d08119 a1b808b2c280dc1d5f429548cead55fca686d4ee Sudhanshu <sudhanshu007@bhu.ac.in> 1711914366 +0530	pull: Fast-forward
+a1b808b2c280dc1d5f429548cead55fca686d4ee 86ce4e8569328851bf50c616e82aea54bd0a9f39 Sudhanshu <sudhanshu007@bhu.ac.in> 1711917401 +0530	commit: eventListener added to the hamberger
+86ce4e8569328851bf50c616e82aea54bd0a9f39 fdeb514df44f144f5f70cc040c26e24aedb2da26 Sudhanshu <sudhanshu007@bhu.ac.in> 1711917406 +0530	pull: Merge made by the 'ort' strategy.
+fdeb514df44f144f5f70cc040c26e24aedb2da26 fdeb514df44f144f5f70cc040c26e24aedb2da26 Sudhanshu <sudhanshu007@bhu.ac.in> 1711918538 +0530	pull: updating HEAD
+fdeb514df44f144f5f70cc040c26e24aedb2da26 3ae7f2b61acdd1aae43da9add45378fcfd8457d5 Sudhanshu <sudhanshu007@bhu.ac.in> 1711918859 +0530	commit: pending
+3ae7f2b61acdd1aae43da9add45378fcfd8457d5 c66f72c5fbdad8d42d099eaad6c2905f8daeee69 Sudhanshu <sudhanshu007@bhu.ac.in> 1711918940 +0530	commit (merge): Merge branch 'master' of https://github.com/roysoumendu765/iitbhu_codefest_2024_haxplore
+c66f72c5fbdad8d42d099eaad6c2905f8daeee69 9ee57d769b4571320c3fb2138e484a97d406e4d7 Sudhanshu <sudhanshu007@bhu.ac.in> 1711922882 +0530	commit: added download button but npm i jspdf is not working so i comment all the codes
+9ee57d769b4571320c3fb2138e484a97d406e4d7 ae3f550428aef79eb15caa8e2586956d75747d05 Sudhanshu <sudhanshu007@bhu.ac.in> 1711948013 +0530	pull: Fast-forward

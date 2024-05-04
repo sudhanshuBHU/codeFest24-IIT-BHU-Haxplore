@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&family=Graduate&display=swap');
+
+.neumorphic-label-enqury {
+  margin-bottom: 5px;
+}
+
+.neumorphic-input-enguiry,
+.neumorphic-input-enguiry:focus {
+  border: none;
+  background-color: #ddd8d8;
+  border-radius: 10px;
+  padding: 8px 12px;
+  margin-bottom: 10px;
+  box-shadow: inset 5px 5px 10px #b0b0b0, inset -5px -5px 10px #ffffff;
+}
+
+.enguiry-container {
+  background: url('./assests/enquiry.jpeg');
+  font-family: 'Graduate';
+}
+
+.neumorphic {
+  border: none;
+  font-weight: bold;
+  background-color: #e0e0e0;
+  border-radius: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 10px;
+  box-shadow: 5px 5px 10px #b0b0b0,
+    -5px -5px 10px #ffffff;
+}

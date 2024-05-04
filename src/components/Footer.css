@@ -1,0 +1,123 @@
+.Footer-Container {
+  width: 102%;
+  /* background-color: rgb(223, 217, 211); */
+  padding: 2rem;
+  border-radius: 10px;
+  border-radius: 5px;
+  background: #e0e0e0;
+}
+.sub-footer-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+ 
+}
+.box {
+  /* width: 20%; */
+}
+.img-title-section img {
+  width: 7rem;
+  height: 9rem;
+  /* transform: scale(); */
+  margin-left: 3rem ;
+}
+.logo-title { 
+  margin-top: 2rem;
+  text-transform: capitalize;
+  margin-left: 1rem;
+  color: rgb(28, 27, 27);
+}
+.footer-sub-title {
+  text-transform: capitalize;
+  text-decoration: solid;
+  font-weight: bold;
+  /* text-align: start; */
+  /* padding-top: 2rem; */
+ 
+}
+.footer-sub-title-contact {
+  display: flex;
+  text-decoration: none;
+}
+.footer-sub-title-contact p:first-of-type {
+  font-size: 25px;
+  margin-top: -8px;
+  margin-right: 10px;
+}
+.contact-sub-icon {
+  font-size: 20px;
+  gap: 15px;
+}
+a {
+  text-decoration: none;
+  color: rgb(69, 68, 68);
+  text-decoration: solid;
+  font-weight: 700;
+  font-size: 18px;
+}
+.footer-sub-title-contact p {
+  font-size: 15px;
+}
+
+.footer-sub-title-media {
+  display: flex;
+  gap: 10px;
+  text-decoration: none;
+  margin-top: 0.5rem;
+}
+.footer-sub-title-policy {
+  /* display: flex; */
+  gap: 10px;
+  text-decoration: none;
+  margin-top: 0.5rem;
+}
+.paymentcard {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.paymentcard img {
+  height: 4rem;
+  width: 8rem;
+}
+.media-sub-title-content {
+  /* margin-top:1rem; */
+}
+.policy-sub-title-content {
+  margin-top: 1rem;
+  
+}
+.contact-sub-title-content {
+  padding-top: 1rem;
+  text-align: start;
+}
+.media-icon {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+}
+.media-icon span a {
+  font-size: 35px;
+  color: black;
+}
+.copyright {
+  display: flex;
+
+  gap: 5px;
+  text-decoration: solid;
+  font-weight: 700;
+  justify-content: center;
+}
+.copyright p {
+  color: black;
+}
+
+.Login {
+  background-color: yellow;
+  padding: 5px;
+}
+@media only screen and (max-width: 600px){
+  .Footer-Container {
+    width: 102%;
+  }
+}

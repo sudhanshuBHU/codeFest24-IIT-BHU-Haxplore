@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Galada&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    /* display: flex; */
+    /* justify-content: space-between; */
+    /* align-items: center; */
+    color: white;
+    background-color: #02031f;
+    height: 5rem;
+    /* width: 100%; */
+}
+
+.heading {
+    /* width: 25%; */
+    /* display: flex; */
+    /* margin-left: 1rem; */
+    /* justify-content: space-evenly; */
+    /* align-items: center; */
+    font-weight: bold;
+    /* margin-bottom: 10px; */
+}
+
+/* .header-icon { */
+/* margin-top: 0.5rem;
+    margin-left: 2rem;
+    height: 4rem;
+    width: 4rem;
+    border-radius: 4px;
+    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+/* } */
+.header-icon img {
+    width: 100px;
+    height: 100px;
+    margin-top: -0.5rem;
+    margin-left: -0.5rem;
+    transform: scale(1.2);
+    padding-top: 0.5rem;
+    padding-bottom: 0rem;
+}
+
+.galada-regular {
+    margin-left: 1rem;
+    font-family: "Graduate", cursive;
+    font-weight: 500;
+    /* font-style: normal; */
+    font-size: 2rem;
+    /* display: block; */
+}
+
+/* @media (max-width:800px) {
+    .galada-regular {
+        display: none;
+    }
+} */
+
+
+
+.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.buy {
+    align-items: center;
+    justify-content: center;
+    height: inherit;
+    display: flex;
+    color: white;
+    cursor: pointer;
+    padding: 0.5rem;
+}
+
+.buy:hover {
+    color: gold;
+    line-height: 1rem;
+    text-decoration: underline;
+    opacity: 0.5;
+}
+
+.headerRight {
+    display: none !important;
+}
+
+@media (min-width:800px) {
+    .headerRight {
+        display: flex !important;
+    }
+}
+
+
+.hamburgerbtn {
+    display: none;
+}
+
+.galada-regular {
+    display: block;
+}
+
+@media (max-width:800px) {
+    .hamburgerbtn {
+        display: block;
+        cursor: pointer;
+    }
+
+    .galada-regular {
+        display: none;
+    }
+}
+
+.trial {
+    display: flex;
+    flex-direction: column;
+}
+@media only screen and (max-width: 600px){
+    .header-icon img{
+        transform: scale(1.2);
+        padding-top: 0.5rem;
+        padding-bottom: 0rem;
+    }
+}

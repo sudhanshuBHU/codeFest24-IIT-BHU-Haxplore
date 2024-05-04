@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Graduate&display=swap');
+
+.wrapper{
+  width: 80%;
+  display: flex;
+  justify-content: center;
+}
+.ticketmain{
+    display: flex;
+    padding: 10px;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background: linear-gradient(to right, #931a6a , #b65f98);
+}
+.list-items{
+    list-style: none;
+}
+.pt-sans-regular {
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .pt-sans-bold {
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .pt-sans-regular-italic {
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .pt-sans-bold-italic {
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  .graduate-regular {
+    font-family: "Graduate", serif;
+    font-weight: 400;
+    font-style: normal;
+  }  
+  .qrcode-img{
+    margin-left: 10px;
+    border: 5px solid white;
+  }
+  h1.ticket-heading {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.list-details{
+    color: white;
+}

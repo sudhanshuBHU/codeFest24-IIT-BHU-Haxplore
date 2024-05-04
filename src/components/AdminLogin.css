@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&family=Graduate&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.alegreya-sans-regular {
+    font-family: "Alegreya Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.graduate-regular {
+    font-family: "Graduate", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.main-wrapper {
+    background: url('./assests/login_page_main.jpg');
+    /* opacity: 0.5; */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.login-wrapper {
+    padding: 5px;
+    width: 320px;
+    justify-content: center;
+    display: flex;
+    height: 400px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.second-wrapper {
+    width: 100%;
+}
+
+.header-wrapper {
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.wrapper-sideways {
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+    z-index: -1;
+}
+
+.image-container {
+    background: url('./assests/login_page_image.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    width: 320px;
+}
+
+.label-text {
+    font-weight: 500;
+    font-size: 25px;
+    display: inline-block;
+}
+
+input {
+    width: 250px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 25px;
+    outline: none;
+    height: 2.75rem;
+}
+
+.google-btn {
+    border-radius: 26px;
+    border: 1px solid black;
+    display: none;
+    align-items: center;
+    justify-content: space-around;
+    width: 250px;
+    margin: 10px auto;
+    background-color: white;
+}
+
+.btn-signin {
+    border-radius: 26px;
+    border: 1px solid black;
+    display: flex;
+    height: 45px;
+    background: white;
+    font-size: 25px;
+    font-weight: 500;
+    align-items: center;
+    justify-content: space-around;
+    width: 250px;
+    margin: 8rem auto 10px;
+}
+
+.btn-signin:hover {
+    color: white;
+    background-color: black;
+}
+
+span.icon-span {
+    padding-bottom: 2px;
+    transform: scale(1.5);
+    font-size: 30px;
+}
+
+.google-btn p {
+    margin-bottom: 0;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.dummy-line {
+    background: #6e530e;
+    height: 12px;
+    width: 100%;
+}
+
+.form-controls {
+    padding-top: 15px;
+}
+
+.google-inner {
+    font-size: 18px !important;
+    color: black !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+@media (max-width:800px) {
+    .image-container {
+        display: none;
+    }
+}
+
+.login-wrapper {
+    border-radius: 20px;
+}

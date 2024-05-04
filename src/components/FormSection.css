@@ -1,0 +1,240 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.formContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.formContainer  div,.formContainer  input{
+  border: none;
+}
+/* .form-section {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  width: 60rem;
+  border-radius: 10px;
+}
+.form-section label {
+  margin-left: 10rem;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.heading {
+  font-size: 3rem;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.nameInput {
+  border-radius: 5px;
+  text-align: left;
+  font-size: 22px;
+  margin-left: 17rem;
+  padding-left: 10px;
+  margin-top: 1rem;
+}
+.gender{
+    margin-top: 1rem;
+    display: flex;
+    flex-direction:row;
+    gap: 20px;
+   
+    justify-content: flex-start;
+}
+.gendermale{
+    margin-left: 16rem;
+}
+
+.ageInput {
+  border-radius: 5px;
+  text-align: left;
+  font-size: 22px;
+  margin-left: 18rem;
+  padding-left: 10px;
+  margin-top: 1rem;
+}
+.mobileInput {
+  border-radius: 5px;
+  text-align: left;
+  font-size: 22px;
+  margin-left: 16.6rem;
+  margin-top: 1rem;
+  padding-left: 10px;
+}
+.idInput {
+  border-radius: 5px;
+  text-align: left;
+  margin-top: 1rem;
+  font-size: 22px;
+  margin-left: 15.9rem;
+  padding-left: 10px;
+  min-width: 262px;
+  color: black;
+}
+.idnumber-input {
+  border-radius: 5px;
+  text-align: left;
+  margin-top: 1rem;
+  font-size: 22px;
+  margin-left: 14.8rem;
+  padding-left: 10px;
+}
+.numberofperson-input {
+  border-radius: 5px;
+  text-align: left;
+  margin-top: 1rem;
+  font-size: 22px;
+  margin-left: 10.8rem;
+  padding-left: 10px;
+}
+.emailInput{
+  border-radius: 5px;
+  text-align: left;
+  font-size: 22px;
+  margin-left: 13.6rem;
+  margin-top: 1rem;
+  padding-left: 10px;
+}
+.total {
+  border-radius: 5px;
+  text-align: left;
+  font-size: 22px;
+  margin-left: 9.4rem;
+  margin-top: 1rem;
+  padding-left: 10px;
+}
+.btn {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  gap: 15rem;
+}
+.submitbtn {
+  padding: 0.5rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  border-radius: 5px;
+}
+.Resetbtn {
+  padding: 0.5rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  border-radius: 5px;
+}
+
+.submitbtn,
+.Resetbtn {
+  font-size: 1.1rem;
+  line-height: 2;
+  border-radius: 10px;
+} */
+
+
+
+.container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 20rem; */
+  width: 100vw;
+  background-image: url(./assests/enquiry.jpeg);
+
+}
+
+.formContainer {
+  background-color: #e0e0e0;
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow:  6px 6px 12px #b0b0b0,
+              -6px -6px 12px #ffffff;}
+
+.neumorphic-fieldset {
+  border: none;
+  width: 100%;
+  margin-inline: 2rem;
+}
+
+.heading {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.neumorphic-label {
+  font-weight: bold;
+  font-family: cursive;
+  font-size: 1.1rem;
+  white-space: nowrap;
+}
+
+.neumorphic-input,.neumorphic-input:focus {
+  border: none;
+  background-color: #e0e0e0;
+  border-radius: 10px;
+  padding: 8px 12px;
+  margin-bottom: 10px;
+  box-shadow: inset 5px 5px 10px #b0b0b0,
+              inset -5px -5px 10px #ffffff;
+}
+
+.neumorphic-radio {
+  margin-bottom: 10px;
+}
+
+.neumorphic-button {
+  border: none;
+  font-family: cursive;
+  font-weight: bold;
+  background-color: #e0e0e0;
+  border-radius: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 10px;
+  box-shadow: 5px 5px 10px #b0b0b0,
+              -5px -5px 10px #ffffff;
+}
+
+.neumorphic-button:hover {
+  transform: translateY(2px);
+}
+
+.neumorphic-button:active {
+  transform: translateY(4px);
+}
+.information{
+  border: 1px solid black;
+}
+
+#id-name, #id-name option{
+  color:black;
+
+}
+.options{
+  color: black;
+}
+
+.waiting-time{
+  width: 100% !important;
+  display: flex !important;
+  justify-content: center !important;
+  background: #e0e0e0 !important;
+}
+
+.form-section > .row {
+  height: 100px; /* Set default height */
+}
+
+/* Media query for large screens */
+@media screen and (min-width: 768px) {
+  .form-section > .row {
+    height: 60px; /* Set height for large screens */
+  }
+}
+.requiredSection{
+  color: red;
+  font-size: 0.8rem;
+}
